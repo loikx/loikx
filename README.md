@@ -5,14 +5,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 ### :man_technologist: About Me :
 
-I am a young Developer <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> from Russia.
-- :telescope: I'm interested in backend development and am fond of mobile technologies.
+I am a young developer from Russia with a passion for backend development and mobile technologies. 
+- :telescope: I'm always looking to improve my skills and stay on top of the latest trends in the industry. 
 
-- :seedling: I love to read technical literature.
+- :seedling: I love to read technical literature, to learn new things and improve my understanding of the field. 
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I enjoy solving problems on LeetCode, reading tech articles, and staying informed about the latest advancements in technology. I strive to use my skills and knowledge to build efficient and user-friendly software solutions.
+
+- :book: Currently learning in ITMO university, faculty FITIP IS'26.
 
 ---
 
