@@ -33,10 +33,3 @@ I am a young developer from Russia with a passion for backend development and mo
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=loikx&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loikx&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
