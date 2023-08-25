@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-I am a young developer from Russia with a passion for backend development and mobile technologies. 
+I am a young developer from Russia with a passion for backend development using golang and c++. 
 - :telescope: I'm always looking to improve my skills and stay on top of the latest trends in the industry. 
 
 - :seedling: I love to read technical literature, to learn new things and improve my understanding of the field. 
