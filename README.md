@@ -15,7 +15,7 @@ I am a young developer from Russia with a passion for backend development using 
 
 - :zap: In my free time, I enjoy solving problems on LeetCode, reading tech articles, and staying informed about the latest advancements in technology. I strive to use my skills and knowledge to build efficient and user-friendly software solutions.
 
-- :book: Currently learning in ITMO university, faculty FITIP IS'26.
+- :book: Сurrently studying at ITMO University, faculty FITIP IS'26.
 
 ---
 
